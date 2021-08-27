@@ -1,5 +1,1 @@
-#include iostream
-main(){
- cout>>"hello dunia";
- cout>>"nama saya gerry";
-getch()}
+saya bersekolah 
