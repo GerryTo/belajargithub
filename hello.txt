@@ -5,3 +5,7 @@ saya sekolah
 saya alvin
 saya berkuliah
 di UBM
+
+saya diego
+saya berkuliah
+di UBM
