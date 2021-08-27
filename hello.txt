@@ -1,4 +1,4 @@
 #include iostream
 main(){
- cout>>"hello world";
+ cout>>"hello dunia";
 getch()}
